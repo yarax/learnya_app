@@ -1,0 +1,3 @@
+rootProject.name = 'Learnya'
+
+include ':app'
